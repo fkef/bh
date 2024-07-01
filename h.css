@@ -1,0 +1,61 @@
+
+
+html{
+    background-image:url("https://cdn.pixabay.com/photo/2024/02/29/07/17/ladybug-8603576_1280.jpg");
+}
+
+      a:link {
+        background: white ;
+        color: burlywood;
+        padding :20px 24px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border:2px solid purple
+      }
+h1{
+  color: whitesmoke;
+  text-align: center;
+  width: 300pxs;
+}
+
+input[type="password"], select {
+  width: 100%;
+  padding: 17px 20px;
+  margin: 20px  0;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 400px;
+  box-sizing: border-box;
+}
+input[type="id"], select {
+  width: 100%;
+  padding: 17px 20px;
+  margin: 20px  0;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 400px;
+  box-sizing: border-box;
+}
+
+
+input[type=submit] {
+  width: 100%;
+  background-color: skyblue;
+  color: white;
+  padding: 14px 20px;
+  margin: 6px  0;
+  border: none;
+
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: blue;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 90px;
+}
